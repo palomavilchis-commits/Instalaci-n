@@ -1,0 +1,6 @@
+Descargar python en la tienda de Win
+
+Abrir una ventana de comando en windows y eje
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+pip --version
